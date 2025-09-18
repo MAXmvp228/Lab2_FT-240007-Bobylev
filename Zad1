@@ -1,0 +1,13 @@
+import math
+
+print("Введите стороны треуголька.")
+a = float(input())
+b = float(input())
+c = float(input())
+           
+p = (a + b + c) / 2        
+S = math.sqrt(p * (p - a) * (p - b) * (p - c))
+S = round(S, 2)
+
+print("Площадь треугольника:")
+print(S)
