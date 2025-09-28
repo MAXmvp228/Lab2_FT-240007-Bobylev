@@ -36,6 +36,11 @@
 
 <img width="974" height="132" alt="image" src="https://github.com/user-attachments/assets/bcbdb117-b4d0-4fc9-8e69-1c17cd458ac5" />
 
+Тест 2
+
+<img width="737" height="83" alt="image" src="https://github.com/user-attachments/assets/20b75cc7-6cb6-4a34-b00f-46c70f253475" />
+
+
 ## Задание 3
 
 Напишите программу, которая определяет, является ли введенный год
