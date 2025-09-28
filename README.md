@@ -19,7 +19,8 @@
 
 Тест 1
 
-<img width="375" height="181" alt="image" src="https://github.com/user-attachments/assets/44c41aa0-e906-401c-ada0-0c32a79d75bc" />
+<img width="537" height="104" alt="image" src="https://github.com/user-attachments/assets/8eb0b021-d7dc-4b7e-9c5f-986bfae062c9" />
+
 
 ## Задание 2
 
