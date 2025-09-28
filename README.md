@@ -21,7 +21,6 @@
 
 <img width="537" height="104" alt="image" src="https://github.com/user-attachments/assets/8eb0b021-d7dc-4b7e-9c5f-986bfae062c9" />
 
-
 ## Задание 2
 
 Создайте программу-конвертер, которая переводит расстояние из одних единиц измерения в другие. Программа должна поддерживать следующие единицы: Километры (км), Метры (м), Сантиметры (см), Миллиметры (мм), Мили (mi), Ярды (yd), фут (ft) и дюйм (in). 
@@ -39,7 +38,6 @@
 Тест 2
 
 <img width="737" height="83" alt="image" src="https://github.com/user-attachments/assets/20b75cc7-6cb6-4a34-b00f-46c70f253475" />
-
 
 ## Задание 3
 
@@ -59,9 +57,10 @@
 
 Тест 1
 
-<img width="370" height="67" alt="image" src="https://github.com/user-attachments/assets/e7769707-252c-492b-bd30-6634ccb1f4a5" />
+<img width="368" height="56" alt="image" src="https://github.com/user-attachments/assets/03af1e30-e509-4082-b09c-89b8a5ec72b3" />
 
 Тест 2
 
-<img width="370" height="67" alt="image" src="https://github.com/user-attachments/assets/95472fd6-811e-40a5-a5a5-6ae9a7682fdd" />
+<img width="207" height="44" alt="image" src="https://github.com/user-attachments/assets/e3f290c6-e3a3-43e7-9d29-80b5e92e7e84" />
+
 
