@@ -1,15 +1,26 @@
-x = int(input("Введите год"))
-if (x%4==0):
-  if (x%100==0):
-    if (x%400==0):
-      f=1
+def Visak(a):
+  if (x%4==0):
+    if (x%100==0):
+      if (x%400==0):
+        return(True)
+      else:
+        return(False)
     else:
-      f=0
+      return(True)
   else:
-    f=1
-else:
-  f=0
-if (f==1):
+    return(False)
+
+x = int(input("Введите год: "))
+if (Visak(x)):
   print('Год является високосным')
 else:
   print('Год не является високосным')
+  i=0
+  while (not(Visak(x+i)) or not(Visak(x-i))):
+    i+=1
+    if (Visak(x+i)):
+      print(f'Ближайшым високосным годом является: {x+i}')
+      break
+    if (Visak(x-i)):
+      print(f'Ближайшым високосным годом является: {x-i}')
+      break
